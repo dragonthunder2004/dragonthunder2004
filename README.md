@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/dragonthunder2004/dragonthunder2004/blob/fd13f5161b68377e99c27deae63b3b653d8e7dfb/github.png?raw=true" alt="Banner" />
+</p>
+
 # <div align="center">💫 About Me</div>
 
 ### 🚧 CURRENTLY WORKING ON  
@@ -40,7 +44,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
-
 
 ### 🛠️ Technologies & Tools
 <p align="center">
