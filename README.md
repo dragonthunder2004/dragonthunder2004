@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="https://github.com/dragonthunder2004/dragonthunder2004/blob/fd13f5161b68377e99c27deae63b3b653d8e7dfb/github.png?raw=true" alt="Banner" />
+  <img src="https://github.com/dragonthunder2004/dragonthunder2004/blob/fd13f5161b68377e99c27deae63b3b653d8e7dfb/github.png?raw=true" alt="Banner" width="80%"/>
 </p>
 
 # <div align="center">💫 About Me</div>
+
 
 ### 🚧 CURRENTLY WORKING ON  
 🌐 Building a new website for my client [antlerenergy.co](https://antlerenergy.co)  
