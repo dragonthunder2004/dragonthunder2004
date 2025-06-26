@@ -2,7 +2,7 @@
   <img src="https://github.com/dragonthunder2004/dragonthunder2004/blob/fd13f5161b68377e99c27deae63b3b653d8e7dfb/github.png?raw=true" alt="Banner" width="80%"/>
 </p>
 
-# <div align="center">💫 About Me</div>
+# <div align="left">💫 About Me</div>
 
 
 ### 🚧 CURRENTLY WORKING ON  
@@ -24,13 +24,13 @@
 
 ---
 
-## <div align="center">🌐 Socials</div>
+## <div align="left">🌐 Socials</div>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayushg_04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushguptanitj) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AyushGupta_2004) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushg3110@gmail.com) 
 
 ---
 
-# <div align="center">💻 Tech Stack</div>
+# <div align="left">💻 Tech Stack</div>
 
 ### 🖥️ Languages & Frameworks
 <p align="center">
@@ -58,7 +58,7 @@
 
 ---
 
-# <div align="center">📊 GitHub Stats</div>
+# <div align="left">📊 GitHub Stats</div>
 
 <div align="center">
 
