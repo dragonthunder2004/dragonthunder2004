@@ -1,4 +1,10 @@
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&height=60&lines=Hi+I+am+Ayush+Gupta!;Welcome+to+my+World" alt="Typing Animation Matrix Style" />
+</p>
+
+
+
+<p align="center">
   <img src="https://github.com/dragonthunder2004/dragonthunder2004/blob/fd13f5161b68377e99c27deae63b3b653d8e7dfb/github.png?raw=true" alt="Banner" width="80%"/>
 </p>
 
